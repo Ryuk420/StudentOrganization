@@ -7,10 +7,7 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
+    
 ## Introduction
 
 Welcome to the Student Organization Management System! This system is designed to streamline the management of student organizations, helping to organize events, track membership, and facilitate communication within the organization.
